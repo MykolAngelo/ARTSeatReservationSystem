@@ -1,4 +1,4 @@
-# GitHubTest
+# ARTSeatReservationSystem
 include <stdio.h>
 #include <stdlib.h>
 
